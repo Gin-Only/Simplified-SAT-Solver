@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "control_module.h": "c",
+        "propagation_module.h": "c"
+    }
+}
